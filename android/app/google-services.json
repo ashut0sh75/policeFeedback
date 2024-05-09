@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "906279081203",
+    "firebase_url": "https://myapps-e2124-default-rtdb.firebaseio.com",
+    "project_id": "myapps-e2124",
+    "storage_bucket": "myapps-e2124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906279081203:android:dfd2b8f7862b692455d386",
+        "android_client_info": {
+          "package_name": "com.example.cmp400onlinecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5SBJbWzMPARwUZoZSqPQkwCUEUT4iKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906279081203-6tp25hgf98fmmoh64od9v13qi0fh3eps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeFeedback"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906279081203:android:b89ef548f3db609855d386",
+        "android_client_info": {
+          "package_name": "com.example.pfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906279081203-dvmm2r1niq72es8i6u2eerb00uu7c66b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pfs",
+            "certificate_hash": "ab0e86b608cb33cffc773a318ce16fbd84617905"
+          }
+        },
+        {
+          "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5SBJbWzMPARwUZoZSqPQkwCUEUT4iKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906279081203-6tp25hgf98fmmoh64od9v13qi0fh3eps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeFeedback"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906279081203:android:9c6942ab2de23d6e55d386",
+        "android_client_info": {
+          "package_name": "com.example.police_feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906279081203-j3beiijfo4fbmfia5t57h402dvlurfs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.police_feedback",
+            "certificate_hash": "ab0e86b608cb33cffc773a318ce16fbd84617905"
+          }
+        },
+        {
+          "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5SBJbWzMPARwUZoZSqPQkwCUEUT4iKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906279081203-6tp25hgf98fmmoh64od9v13qi0fh3eps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeFeedback"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906279081203:android:42e3981ed47a8ca955d386",
+        "android_client_info": {
+          "package_name": "com.example.snapclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5SBJbWzMPARwUZoZSqPQkwCUEUT4iKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906279081203-1aquifhr9eu31obd7kk45ksmov4n0bt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906279081203-6tp25hgf98fmmoh64od9v13qi0fh3eps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeFeedback"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
